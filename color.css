@@ -1,0 +1,69 @@
+*{
+    margin:0;
+    padding: 50px;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color:lightskyblue;
+    font-size:35px;
+    
+}
+.c1{ 
+    background-color: white;
+    width: 80vw;
+    height: 15vh;
+    box-shadow: 5px 0px 5px grey;
+    display:flex ;
+    justify-content: space-around;
+    align-items: center;
+    margin: 50px;
+}
+.c2{
+    background-color:  white;
+    width: 80vw;
+    height: 15vh;
+    box-shadow: 5px 0px 5px gray;
+    display:flex ;
+    justify-content: space-around;
+    align-items: center;
+    margin: 50px;
+}
+.bi-image{
+    color:aqua ;
+}
+.bi-file-bar-graph-fill{
+    color: blue;
+}
+.bi-briefcase-fill{
+    color: violet;
+}
+.bi-lightning-fill{
+    color: pink;
+}
+.bi-droplet-fill{
+    color: red;
+}
+.bi-heart-fill{
+color: red;
+}
+.bi-chat-fill{
+color: grey;
+}
+.bi-star-fill{
+    color:yellow;
+}
+.bi-fan{
+    color: grey;
+}
+
+.bi-arrow-90deg-right{
+    color: grey;
+}
+
+.bi-three-dots{
+    color: grey;
+}
+i{
+    font-style:normal;
+}
